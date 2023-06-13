@@ -1,0 +1,204 @@
+/* ===== Google Font Import - Poppins ===== */
+
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+:root{
+  
+       /* ===== Colors ===== */
+    --primary-color: #ffffff;
+    --panel-color: #FFF;
+    --text-color: #000;
+    --black-light-color: #707070;
+    --border-color: #e6e5e5;
+    --toggle-color: #DDD;
+    --box1-color: #4DA3FF;
+    --box2-color: #FFE6AC;
+    --box3-color: #E7D1FC;
+    --title-icon-color: #fff;
+    
+    /* ====== Transition ====== */
+    --tran-05: all 0.5s ease;
+    --tran-03: all 0.3s ease;
+    --tran-03: all 0.2s ease;
+}
+body{
+    min-height: 100vh;
+    background-color:var(--panel-color);
+}
+body.dark{
+    --primary-color: #3A3B3C;
+    --panel-color: #171818;
+    --text-color: #CCC;
+    --black-light-color: #CCC;
+    --border-color: #4D4C4C;
+    --toggle-color: #FFF;
+    --box1-color: #3A3B3C;
+    --box2-color: #3A3B3C;
+    --box3-color: #3A3B3C;
+    --title-icon-color: #CCC;
+}
+nav{
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 260px;
+    padding: 10px 14px;
+    background-color: var(--primary-color);
+    border-right:1px solid var(--border-color) ;
+    transition: var(--tran-05);
+}
+nav.close{
+    width: 73px;
+}
+.logo-name{
+    display: flex;
+    align-items: center;
+}
+nav .logo-imge{
+    display: flex;
+    justify-content: center;
+    min-width: 45px;
+
+}
+nav .logo-imge img {
+    width: 40px;
+    object-fit: cover;
+    border-radius: 50%;
+}
+nav .logo-name .logo_name{
+    font-size: 22px;
+    font-weight: 700;
+    transition: var(--tran-05);
+    color: var(--text-color);
+    margin-left: 14px;
+
+
+}
+nav.close .logo_name{
+    opacity: 0;
+    pointer-events: none;
+     
+ }
+nav .menu-items{ 
+    margin-top: 40px;
+    height: calc(100% - 90px) ;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    
+}
+.menu-items li{
+    list-style: none;
+
+
+}
+.menu-items li a{
+    text-decoration:none ;
+    align-items: center;
+    display: flex;
+    height: 60px;
+
+}
+.nav-links li a:hover:before{
+    content: "";
+    position: absolute;
+    height: 5px;
+    width: 5px;
+    border-radius: 50%;
+    background-color:#430bfbc4;
+}
+
+.menu-items li a i{ 
+    min-width: 45px;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 24px;
+    color: var(--black-light-color);
+
+}
+.menu-items li a .link-name{
+    font-size: 18px;
+    font-weight: 400;
+    color: var(--black-light-color);
+    transition: var(--tran-05);
+}
+nav.close li a .link-name{
+    opacity: 0;
+    pointer-events: none;
+}
+.nav-links li a:hover i,
+.nav-links li a:hover.link-name,.logout-mod li a:hover i
+{
+    color:#430bfbd5;
+}
+.menu-items .logout-mod{
+    padding-top: 10px;
+    border-top:1px solid var(--border-color);
+
+}
+.menu-items .mode{
+    display: flex;
+    align-items: center;
+    white-space: nowrap;
+     
+
+
+}
+.menu-items .mode-toggle{
+    position: absolute;
+    right: 14px;
+    height: 50px;
+    min-width: 45px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+
+}
+.mode-toggle .switch{
+    position: relative;
+    display: inline-block;
+    height: 30px;
+    width: 60px;
+    border-radius: 25px;
+    background-color: var(--toggle-color);
+}
+.switch::before{
+    content: "";
+    position: absolute;
+    left: 5px;
+    top: 50%;
+    transform: translateY(-50%);
+    
+    height: 20px;
+    width: 20px;
+    background-color: var(--primary-color);
+    border-radius: 50%;
+}
+body.dark .switch::before{
+    left: 35px;
+}
+.bas{
+    height: 100vh;
+   padding-left: 50%;
+   padding-top: 20%;
+   font-size: 25px;
+   font-family: 'Poppins', sans-serif;
+   font-weight: 900;
+    background-color: var(--primary-color)
+}
+body.dark .bas{
+    color: #DDD;
+}
+.profıl{
+    background-color: var(--primary-color);
+    height: 100%;
+}

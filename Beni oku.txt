@@ -1,0 +1,21 @@
+Yapmış olduğum proje web ve masaüstü taraflıdır.
+Masaüstü ve web tarafında da ortak veritabnı kullanıldu.
+Projeyi başlatmadan önce xampp ve buna benzer program kullanınız.
+XAMPP'yi indirin ve yükleyin.
+
+htdocs klasörüne proje dosyalarınızı yerleştirin.
+
+Veritabanınızı oluşturmak için XAMPP ile MySQL'i başlatın ve http://localhost/phpmyadmin/ adresine gidin.
+
+Veritabanınızı dental olarak adlandırın ve projenizde kullanacağınız tabloları oluşturun.
+
+Web arayüzü için, projenizi tarayıcınızda açın ve http://localhost/proje_adı/ adresine gidin.
+
+C# form arayüzü için, projenizi Visual Studio veya başka bir C# IDE'sinde açın ve gerekli yapılandırmaları yaparak çalıştırın.
+
+Not: Proje dosyalarınızı proje_adı kısmına uygun şekilde güncellemeniz gerekmektedir.
+
+Detaylı ve görsel anlatım için linke girin
+
+https://github.com/MustafaKskn/Dis-Randavu-Sistemi
+

@@ -1,0 +1,200 @@
+    .imges{
+        background-image: url('../images/Başlıksız-1.jpg');
+        background-size: contain;
+        background-repeat: no-repeat;
+        background-position: left top;
+        height: 54vw; /* Ekran yüksekliğinin yarısı */
+        width: 50vw; /* Ekran genişliğinin yarısı */
+        position: fixed;
+        left: 0;
+        top: 0;
+        margin: 0;
+    }
+    .leftkol {
+        background-image: url('../images/background-image.jpg');
+        background-size: contain;
+        background-repeat: no-repeat;
+        background-position: right top;
+        background-attachment: fixed;
+        position: fixed;
+        height: 54vw; /* Ekran yüksekliğinin yarısı */
+        width: 65vw;
+        left: 35vw;
+        top: 0px;
+        opacity: 1;
+        mix-blend-mode: multiply;
+        font-family: inherit;
+        
+    }
+    .title1{
+        text-align: center;
+        padding-top: 20px;
+        color:#8E0000 ;
+        background-color: #a5a6a871;
+        font-size: 30px;
+        
+    }
+    
+   
+
+    /* ÜYE GİRİŞİ */
+    .uyeg{
+    position: absolute;
+    width: 200px;
+    height: 150px;
+    left: 190px;
+    top: 200px;
+    background: #ff0000d2;
+    box-shadow: 4px 4px 4px 4px rgba(0, 0, 0, 0.311);
+    border-radius: 30px;
+    border-color: #FFFFFF;
+    border: 0px;
+    
+
+    }
+    .uyeg:hover{
+        background: #ff0000;
+        box-shadow: 8px 8px 8px 8px #ff000075;
+        border-color: #ff0000;
+
+    }
+    .uyeg h1{
+    position: absolute;
+    width: 180px;
+    height: 39px;
+    left: 10px;
+    top: 80px;
+    color: #FFFFFF;
+    
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 39px;
+    }
+    /* identical to box height */
+    .fa-user{
+    position: absolute;
+    font-size: 3em;
+    color: #000000;
+    left: 90px;
+    top: 40px;
+    }
+
+    .docg{
+    position: absolute;
+    width: 200px;
+    height: 150px;
+    left: 450px;
+    top: 200px;
+    background: #394cf4de;
+    box-shadow: 4px 4px 4px 4px rgba(0, 0, 0, 0.311);
+    border-radius: 30px;
+    border-color: #FFFFFF;
+    border: 0px;
+    }
+    .docg:hover{
+        background: #394CF4;
+        box-shadow: 8px 8px 8px 8px #394cf475;
+        border-color: #394CF4;
+    }
+    .docg h1{
+    position: absolute;
+    width: 180px;
+    height: 39px;
+    left: 10px;
+    top: 80px;
+    color: #FFFFFF;
+    
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 39px;
+    }
+    /* identical to box height */
+    .fa-user-doctor{
+    position: absolute;
+    font-size: 3em;
+    color: #000000;
+    left: 80px;
+    top: 40px;
+    }
+    .rana{
+        position: absolute;
+        width: 200px;
+        height: 150px;
+        left: 190px;
+        top: 400px;
+        background: #3cf439de;
+        box-shadow: 4px 4px 4px 4px rgba(0, 0, 0, 0.275);
+        border-radius: 30px;
+        border-color: #FFFFFF;
+        border: 0px;
+        }
+        .rana:hover{
+            background: #3DF439;
+            box-shadow: 8px 8px 8px 8px #3cf43975;
+            border-color: #3DF439;
+
+        }
+    
+        .rana h1{
+        position: absolute;
+        width: 200px;
+        height: 39px;
+        left: 0px;
+        top: 70px;
+        color: #FFFFFF;
+        
+        font-style: normal;
+        font-weight: 280px;
+        font-size: 20px;
+        line-height: 39px;
+        
+        }
+        /* identical to box height */
+        .fa-calendar-days{
+        position: absolute;
+        font-size: 3em;
+        color: #000000;
+        left: 80px;
+        top: 30px;
+        }
+        .docl{
+            position: absolute;
+            width: 200px;
+            height: 150px;
+            left: 450px;
+            top: 400px;
+            background: #9a4242ed;
+            box-shadow: 4px 4px 4px 4px rgba(0, 0, 0, 0.311);
+            border-radius: 30px;
+            border-color: #FFFFFF;
+            border: 0px;
+            }
+            .docl:hover{
+                background: #9a4242;
+                box-shadow: 8px 8px 8px 8px #9a424275;
+                border-color: #9a4242;
+            }
+            .docl h1{
+            position: absolute;
+            width: 200px;
+            height: 39px;
+            left: 5px;
+            top: 70px;
+            color: #FFFFFF;
+            
+            font-style: normal;
+            font-weight: 700;
+            font-size: 20px;
+            line-height: 39px;
+            }
+            /* identical to box height */
+            .fa-list{
+            position: absolute;
+            font-size: 3em;
+            color: #000000;
+            left: 80px;
+            top: 30px;
+            }
+
