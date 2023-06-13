@@ -11,18 +11,18 @@ Bu, özel diş polikliniğinizin randevu sisteminin `README.md` dosyasıdır. Bu
   - Veritabanı yükleme işlemi için XAMPP kullanılabilir. Veritabanı yönetimi için http://localhost/phpmyadmin/ adresine erişebilirsiniz.
   ## Web Arayüz Görselleri
   
-  > *<img src="https://github.com/MustafaKskn/Dis-Randavu-Sistemi2/assets/108763130/edbf2509-1d5e-4163-ad1b-2adbb9684668" alt="xamp1" width="320" style="display:inline-block;">*
-  > *<img src="https://github.com/MustafaKskn/Dis-Randavu-Sistemi2/assets/108763130/56a34350-9341-409c-b143-d6d34c851e75" alt="xamp1" width="320" style="display:inline-block;">*
-  >  > *<img src="https://github.com/MustafaKskn/Dis-Randavu-Sistemi2/assets/108763130/a4855444-3582-4c35-be27-91b00980770c" alt="xamp1" width="320" style="display:inline-block;">*
+  > *<img src="https://github.com/MustafaKskn/Dis-Randavu-Sistemi/assets/108763130/edbf2509-1d5e-4163-ad1b-2adbb9684668" alt="xamp1" width="320" style="display:inline-block;">*
+  > *<img src="https://github.com/MustafaKskn/Dis-Randavu-Sistemi/assets/108763130/56a34350-9341-409c-b143-d6d34c851e75" alt="xamp1" width="320" style="display:inline-block;">*
+  >  > *<img src="https://github.com/MustafaKskn/Dis-Randavu-Sistemi/assets/108763130/a4855444-3582-4c35-be27-91b00980770c" alt="xamp1" width="320" style="display:inline-block;">*
   
 - **C# Form Arayüzü:**
   - Doktorlar, C# form arayüzüne giriş yaparak randevuları görüntüleyebilir, onaylayabilir, reddedebilir ve değiştirebilir.
   - Veritabanı, C# form arayüzü ile bağlantılıdır.
   ## C# Form Arayüz Görselleri
   
-  > *<img src="https://github.com/MustafaKskn/Dis-Randavu-Sistemi2/assets/108763130/687447d7-b8fa-4888-a38e-27eb781a6138" alt="xamp1" width="300" style="display:inline-block;">
-  > *<img src="https://github.com/MustafaKskn/Dis-Randavu-Sistemi2/assets/108763130/8d7d70bc-2526-4881-8108-9e636a835ace" alt="xamp1" width="300" style="display:inline-block;">*
-  >  > *<img src="https://github.com/MustafaKskn/Dis-Randavu-Sistemi2/assets/108763130/25498a59-6d72-4329-85b3-53727dc93551" alt="xamp1" width="300" style="display:inline-block;">*
+  > *<img src="https://github.com/MustafaKskn/Dis-Randavu-Sistemi/assets/108763130/687447d7-b8fa-4888-a38e-27eb781a6138" alt="xamp1" width="300" style="display:inline-block;">
+  > *<img src="https://github.com/MustafaKskn/Dis-Randavu-Sistemi/assets/108763130/8d7d70bc-2526-4881-8108-9e636a835ace" alt="xamp1" width="300" style="display:inline-block;">*
+  >  > *<img src="https://github.com/MustafaKskn/Dis-Randavu-Sistemi/assets/108763130/25498a59-6d72-4329-85b3-53727dc93551" alt="xamp1" width="300" style="display:inline-block;">*
     
     
 ## Kullanım
