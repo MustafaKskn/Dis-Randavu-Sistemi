@@ -21,9 +21,10 @@ Bu, özel diş polikliniğinizin randevu sisteminin `README.md` dosyasıdır. Bu
   - Veritabanı, C# form arayüzü ile bağlantılıdır.
   ## C# Form Arayüz Görselleri
   
-  > *<img src="https://github.com/MustafaKskn/Dis-Randavu-Sistemi/blob/main/c%23form/resimler/c%23form.png" alt="xamp1" width="300" style="display:inline-block;">
+  >  *<img src="https://github.com/MustafaKskn/Dis-Randavu-Sistemi/blob/main/c%23form/resimler/c%23form.png" alt="xamp1" width="300" style="display:inline-block;">*
   > *<img src="https://github.com/MustafaKskn/Dis-Randavu-Sistemi/blob/main/c%23form/resimler/c%23form3.png" alt="xamp1" width="300" style="display:inline-block;">*
-  >  > *<img src="https://github.com/MustafaKskn/Dis-Randavu-Sistemi/blob/main/c%23form/resimler/c%23form2.png" alt="xamp1" width="300" style="display:inline-block;">*
+  > *<img src="https://github.com/MustafaKskn/Dis-Randavu-Sistemi/blob/main/c%23form/resimler/c%23form2.png" alt="xamp1" width="300" style="display:inline-block;">*
+    
     
     
 ## Kullanım
