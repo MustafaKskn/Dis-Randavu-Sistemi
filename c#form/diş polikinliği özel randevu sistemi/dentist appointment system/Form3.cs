@@ -22,7 +22,7 @@ namespace dentist_appointment_system
         {
             InitializeComponent();
            
-            connectionString = "Server=localhost;Database=dental;Uid=root;Password=;";
+            connectionString = "Server=sql204.infinityfree.com;Database=if0_34433466_denta;Uid=if0_34433466;Password=30laGYQqJI;";
         }
 
         private void Form3_Load(object sender, EventArgs e)
