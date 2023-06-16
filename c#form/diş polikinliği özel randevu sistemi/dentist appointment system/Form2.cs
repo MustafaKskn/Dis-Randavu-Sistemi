@@ -20,7 +20,7 @@ namespace dentist_appointment_system
         {
             InitializeComponent();
             this.doktorlarId = doktorlarId;
-            connectionString = "Server=localhost;Database=dental;Uid=root;Password=;";
+            connectionString = "Server=sql204.infinityfree.com;Database=if0_34433466_denta;Uid=if0_34433466;Password=30laGYQqJI;";
         }
 
         private void Form2_Load(object sender, EventArgs e)
